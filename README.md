@@ -1,2 +1,1 @@
-# PrepCourse-Anai
-Repositorio de prueba 3
+Anaí gutierrez y Chiki
